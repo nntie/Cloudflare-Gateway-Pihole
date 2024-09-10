@@ -1,2 +1,5 @@
 # connect.facebook.net
 api-js.datadome.co
+# Google search sponsors
+www.googleadservices.com
+googleadservices.com
